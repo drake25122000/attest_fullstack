@@ -1,0 +1,7 @@
+.bar1 {
+    transform: translateX(7px);
+}
+
+.bar2 {
+    transform: translateX(-7px) rotate(90deg);
+}
