@@ -1,0 +1,13 @@
+{
+	"name" : "Louis Vuitton Onthego PM",
+	"image" : "https://ipfs.io/ipfs/QmXaigUjNZ4XhvRFdxZm8gP3R46hTsez451LYNMtmFkFMd/3.jpg",
+	"brand" : "Louis Vuitton",
+	"product_code" : "M46216",
+	"model" : "Onthego PM",
+	"retail_price" : "$4300",
+	"release_date" : "06/08/2022",
+	"product_details": {
+		"type" : "bag",
+		"color" : "green"
+	}
+}

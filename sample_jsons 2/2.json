@@ -1,0 +1,13 @@
+{
+	"name" : "Dior Oblique B23 High-Top Sneaker",
+	"image" : "https://firebasestorage.googleapis.com/v0/b/attest-7b352.appspot.com/o/images%2F2.jpg?alt=media&token=8dc0d360-3362-4a93-9bad-bd5443e1b2b7",
+	"brand" : "Dior",
+	"product_code" : "3SH118YJP_H069",
+	"model" : "B23 High-Top Sneaker",
+	"retail_price" : "$1050",
+	"release_date" : "04/05/2019",
+	"product_details": {
+		"type" : "shoes",
+		"color" : "oblique"
+	}
+}

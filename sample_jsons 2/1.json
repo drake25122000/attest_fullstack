@@ -1,0 +1,14 @@
+{
+	"name" : "Louis Vuitton Christopher PM",
+	"image" : "https://firebasestorage.googleapis.com/v0/b/attest-7b352.appspot.com/o/images%2F1.jpg?alt=media&token=76a87eef-91de-403d-8b56-0f51f066b3dc",
+	"brand" : "Louis Vuitton",
+	"product_code" : "N41379",
+	"model" : "Christopher PM",
+	"retail_price" : "$4550",
+	"release_date" : "04/05/2019",
+	"product_details": {
+		"type" : "shoes",
+		"color" : "oblique",
+		"materials" : "damier graphite"	
+	}
+}

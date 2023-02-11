@@ -1,0 +1,13 @@
+{
+	"name" : "Rolex Submariner Date",
+	"image" : "https://ipfs.io/ipfs/QmXaigUjNZ4XhvRFdxZm8gP3R46hTsez451LYNMtmFkFMd/4.jpg",
+	"brand" : "Rolex",
+	"product_code" : "126610LN",
+	"model" : "Submariner Date",
+	"retail_price" : "$13990",
+	"release_date" : "04/05/2019",
+	"product_details": {
+		"type" : "watches",
+		"color" : "black steel"
+	}
+}
